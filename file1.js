@@ -1,3 +1,0 @@
-test
-worl
-test2
